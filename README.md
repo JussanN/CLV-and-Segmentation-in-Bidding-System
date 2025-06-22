@@ -7,7 +7,7 @@ We will use K-means for segmentation and various machine learning models such as
 
 For a detailed explanation, please refer to the [Project video](https://harvard.zoom.us/rec/play/SXLv7WtscupvOoCPk7_arX7qz77w4HxLlWGyMrFKZmPorx3y-wwON7lfZuM1HdevTVvryR-U8cLiopRp.GVQN43Efm1GjuAYo?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1746641998000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fharvard.zoom.us%2Frec%2Fshare%2FdG1jC0tyYR6Hp0fH9fdjycLaWZNKrMdT1sbrkSA88fG2skNjOcIit7Opl_SwwHYt.aWh9ylShKByP-Shs%3FstartTime%3D1746641998000) and the Python notebook included in this repository.
 
-The data source used in this project is a retail dataset and it can be found on [Kaggle]([https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma](https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset))
+The data source used in this project is a retail dataset and it can be found on [Kaggle](https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset)
 
 Done by Jussan Da Silva Bahia Nascimento, Selina Qian, Mengdi Chai, Zhongling Tang, Daisy Lyu
 
